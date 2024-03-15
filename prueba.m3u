@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,[000] Portada HD
+rtp://@239.0.5.185:8208
+#EXTINF:-1,[001] La 1 HD
+rtp://@239.0.0.185:8208
+#EXTINF:-1,[002] La 2 HD
+rtp://@239.0.0.183:8208
+#EXTINF:-1,[003] Antena 3 HD
+rtp://@239.0.0.186:8208
+#EXTINF:-1,[004] Cuatro HD
+rtp://@239.0.0.177:8208
+#EXTINF:-1,[005] Tele 5 HD
+rtp://@239.0.0.176:8208
+#EXTINF:-1,[006] La Sexta HD
+rtp://@239.0.0.187:8208
+#EXTINF:-1, [036] Paramount Network HD
+rtp://@239.0.5.86:8208
+#EXTINF:-1, [037] BeMad HD
+rtp://@239.0.0.182:8208
+#EXTINF:-1, [047] TRECE
+rtp://@239.0.0.91:8208
+#EXTINF:-1, [048] Energy HD
+rtp://@239.0.5.176:8208
+#EXTINF:-1, [049] FDF HD
+rtp://@239.0.5.107:8208
+#EXTINF:-1, [050] Neox HD
+rtp://@239.0.5.207:8208
+#EXTINF:-1, [051] Atreseries HD
+rtp://@239.0.0.190:8208
+#EXTINF:-1, [074] GOL PLAY HD
+rtp://@239.0.5.189:8208
+#EXTINF:-1, [075] Teledeporte HD
+rtp://@239.0.0.188:8208
+#EXTINF:-1, [076] Real Madrid TV HD
+rtp://@239.0.0.179:8208
+#EXTINF:-1, [089] DMAX
+rtp://@239.0.0.32:8208
+#EXTINF:-1, [094] DKISS
+rtp://@239.0.0.6:8208
+#EXTINF:-1, [095] Divinity HD
+rtp://@239.0.5.199:8208
+#EXTINF:-1, [096] Nova HD
+rtp://@239.0.5.209:8208
+#EXTINF:-1, [097] MEGA HD
+rtp://@239.0.5.210:8208
+#EXTINF:-1, [098] Ten
+rtp://@239.0.0.34:8208
+#EXTINF:-1,[116] Disney Channel HD
+rtp://@239.0.0.173:8208
+#EXTINF:-1, [117] Boing HD
+rtp://@239.0.5.177:8208
+#EXTINF:-1,[118] Clan TVE HD
+rtp://@239.0.0.184:8208
+#EXTINF:-1, [127] Canal 24H. HD
+rtp://@239.0.5.143:8208
+#EXTINF:-1, [139] El Toro TV HD
+rtp://@239.0.0.168:8208
+#EXTINF:-1, [140] Negocios TV
+rtp://@239.0.0.85:8208
