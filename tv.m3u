@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
+#EXTINF:-1,tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1,tvg-id="La2.TV" tvg-logo="https://www.camilos.es/wp-content/uploads/2018/03/logo_tve-2-750699.png",La 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1,tvg-id="Antena3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/1200px-Antena_3.svg.png",Antena 3
+http://77.228.160.100:61800/play/a00a
+#EXTINF:-1,tvg-id="Cuatro.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png",Cuatro
+http://77.228.160.100:61800/play/a00l
+#EXTINF:-1,tvg-id="Telecinco.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png",Telecinco
+http://77.228.160.100:61800/play/a00k
+#EXTINF:-1,tvg-id="LaSexta.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/712px-La_Sexta_%28A3M%29.svg.png",laSexta
+http://77.228.160.100:61800/play/a00b
+#EXTINF:-1,tvg-id="CMM.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/1200px-CMMedia.svg.png",CMM TV
+https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
+#EXTINF:-1,tvg-id="APUNT.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/1200px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",A Punt
+https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1,tvg-id="8M.TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/La-8-Mediterraneo-en-DIRECTO-Online-en-vivo.png",8 Mediterraneo
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1,tvg-id="Neox.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/768px-Neox_2023_logo.svg.png",neox
+http://77.228.160.100:61800/play/a00c
+#EXTINF:-1,tvg-id="Nova.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png",nova
+http://77.228.160.100:61800/play/a00d
+#EXTINF:-1,tvg-id="DisneyChannel.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png",Disney Channel
+http://77.228.160.100:61800/play/a00f Disney Channel
+#EXTINF:-1,tvg-id="Divinity.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png",Divinity
+http://77.228.160.100:61800/play/a00j
+#EXTINF:-1,tvg-id="Energy.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png",Energy
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index.m3u8
+#EXTINF:-1,tvg-id="FDF.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/2048px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png",FDF
+http://77.228.160.100:61800/play/a00i
+#EXTINF:-1,tvg-id="GOL.TV" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",GOL PLAY
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/index.m3u8
+#EXTINF:-1,tvg-id="Bemad.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png",BeMAD
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
+#EXTINF:-1,tvg-id="DMax.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png",DMAX
+http://77.228.160.100:61800/play/a00g
+#EXTINF:-1,tvg-id="24Horas.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24h
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1,tvg-id="TDP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr.m3u8
+#EXTINF:-1,tvg-id="E3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png",Esport3
+https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1,tvg-id="Clan.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png",Clan
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/104927246235553/picture?width=200&height=200",Vision 6
+https://streaming.proceso.info:8888/vision6-web/stream.m3u8
+
+#EXTINF:-1,tvg-id="TVGAL.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",TVG
+https://crtvg-europa.flumotion.cloud/crtvg/europa_med/chunks_dvr.m3u8
