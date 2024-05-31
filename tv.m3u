@@ -23,7 +23,7 @@ http://77.228.160.100:61800/play/a00c
 #EXTINF:-1,tvg-id="Nova.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png",nova
 http://77.228.160.100:61800/play/a00d
 #EXTINF:-1,tvg-id="DisneyChannel.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png",Disney Channel
-http://77.228.160.100:61800/play/a00f Disney Channel
+http://77.228.160.100:61800/play/a00f
 #EXTINF:-1,tvg-id="Divinity.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png",Divinity
 http://77.228.160.100:61800/play/a00j
 #EXTINF:-1,tvg-id="Energy.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png",Energy
