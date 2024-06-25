@@ -105,8 +105,10 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" tvg-name="BFM TV Francia",BFM TV Francia
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="TV5Monde.TV" tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TV5Monde Francia",TV5Monde Francia
+#EXTINF:-1 tvg-id="TV5Monde.TV" tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" tvg-name="TV5Monde Francia",TV5Monde Francia
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="TVEStarHD.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" tvg-name="TVE Star HD",TVE Star HD
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="RTP1.TV" tvg-logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200" tvg-name="RTP 1 Portugal",RTP 1 Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
@@ -129,3 +131,5 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" tvg-name="Trece Paraguay",Trece Paraguay
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/1200px-2M_TV_logo.svg.png" tvg-name="2M",2M Morroco
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
