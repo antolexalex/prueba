@@ -3,7 +3,7 @@
 #EXTINF:-1,tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1,tvg-id="La2.TV" tvg-logo="https://www.camilos.es/wp-content/uploads/2018/03/logo_tve-2-750699.png",La 2
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 #EXTINF:-1,tvg-id="Antena3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/1200px-Antena_3.svg.png",Antena 3
 http://77.228.160.100:61800/play/a00a
 #EXTINF:-1,tvg-id="Cuatro.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png",Cuatro
@@ -131,5 +131,3 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" tvg-name="Trece Paraguay",Trece Paraguay
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/1200px-2M_TV_logo.svg.png" tvg-name="2M",2M Morroco
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
