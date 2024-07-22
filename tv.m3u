@@ -18,6 +18,8 @@ https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4yc
 https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1,tvg-id="8M.TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/La-8-Mediterraneo-en-DIRECTO-Online-en-vivo.png",8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1,tvg-id="" tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200",Aqui No Hay Quien Viva 24h
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 #EXTINF:-1,tvg-id="TEN.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png",TEN
 https://tvnoov.com/fa/ten.m3u8
 #EXTINF:-1,tvg-id="Neox.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/768px-Neox_2023_logo.svg.png",neox
@@ -40,6 +42,8 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index
 http://77.228.160.100:61800/play/a00i
 #EXTINF:-1,tvg-id="GOL.TV" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",GOL PLAY
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/index.m3u8
+#EXTINF:-1,tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1,tvg-id="Bemad.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png",BeMAD
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
 #EXTINF:-1,tvg-id="DMax.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1280px-DMax_Espa%C3%B1a.svg.png",DMAX
@@ -84,13 +88,13 @@ https://crtvg-europa.flumotion.cloud/crtvg/europa_med/chunks_dvr.m3u8
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" tvg-name="TVE Int. Europa",TVE Europa
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
-#EXTINF:-1 tvg-id="TVC.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Int. Europa" tvg-name="TV3.CAT",TV3.CAT
+#EXTINF:-1 tvg-id="TVC.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" tvg-name="TV3.CAT",TV3.CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-id="ETBSAT.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" tvg-name="EITB Basque",EITB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="TVGA.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" tvg-name="TVG América",TVG América
 https://crtvg-america.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleMadridInt.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Telemadrid Internacional",Telemadrid Internacional
+#EXTINF:-1 tvg-id="TeleMadridInt.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" tvg-name="Telemadrid Internacional",Telemadrid Internacional
 https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1752299087402041344/eAHH3L02_200x200.jpg" tvg-name="GCM Internacional",GCM Internacional
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
@@ -131,3 +135,6 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" tvg-name="Trece Paraguay",Trece Paraguay
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" tvg-name="test",test
+rtp://@239.0.0.185:8208
+
