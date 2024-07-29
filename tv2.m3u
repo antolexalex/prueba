@@ -82,11 +82,13 @@ https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1,tvg-id="7 TV Región Murcia" tvg-chno="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/640px-7TVRM.svg.png",7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="TVG - TV Galicia" tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",TVG
+#EXTINF:-1,tvg-id="TPA" tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/A7_2024_Logo.svg/1920px-A7_2024_Logo.svg.png",TPA7 Asturias
+https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR=
+#EXTINF:-1,tvg-id="TVG - TV Galicia" tvg-chno="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",TVG
 https://crtvg-europa.flumotion.cloud/crtvg/europa_med/chunks_dvr.m3u8
-#EXTINF:-1,tvg-id="TVG 2" tvg-chno="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TVG2_Logo.svg/512px-TVG2_Logo.svg.png",TVG2
+#EXTINF:-1,tvg-id="TVG 2" tvg-chno="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TVG2_Logo.svg/512px-TVG2_Logo.svg.png",TVG2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-#EXTINF:-1,tvg-id="Eurosport 4K" tvg-chno="44" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204K.png",Eurosport 4K
+#EXTINF:-1,tvg-id="Eurosport 4K" tvg-chno="45" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204K.png",Eurosport 4K
 rtp://@239.0.5.139:8208
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/molahitstv/picture?width=200&height=200" tvg-name="Molahits TV España",Molahits TV
 https://ventdelnord.tv:8080/mola/directe.m3u8
@@ -107,6 +109,8 @@ https://new-international-23-secure2.akamaized.net/index.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/gcmi/gcmi.m3u8
 #EXTINF:-1 tvg-id="CNN International Europe" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320" tvg-name="CNN Internacional",CNN Internacional
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+#EXTINF:-1 tvg-id="BBC World News Europe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png" tvg-name="BBC News",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="Bloomberg TV Europe" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" tvg-name="Bloomberg Europe",Bloomberg Europe
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="FRANCE 24 FRA" tvg-logo="https://i.imgur.com/ZnmAXVv.png",France 24 Español
@@ -137,7 +141,3 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" tvg-name="Trece Paraguay",Trece Paraguay
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" tvg-name="test",test
-rtp://@239.0.5.185:8208
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Canal_Nou_logo_%282010-2013%29.png" tvg-name="test2",test2
-rtp://@239.0.5.78:8208
