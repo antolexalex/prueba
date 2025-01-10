@@ -30,8 +30,8 @@ rtp://@239.0.0.190:8208
 rtp://@239.0.5.209:8208
 #EXTINF:-1,tvg-id="Mega" tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png",mega
 rtp://@239.0.5.210:8208
-#EXTINF:-1,tvg-id="Disney Channel HD" tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Channel%20HD.png",Disney Channel
-rtp://@239.0.0.173:8208
+#EXTINF:-1,tvg-id="DMAX" tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1280px-DMax_Espa%C3%B1a.svg.png",DMAX
+rtp://@239.0.0.32:8208
 #EXTINF:-1,tvg-id="Divinity" tvg-chno="17" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png",Divinity
 rtp://@239.0.5.199:8208
 #EXTINF:-1,tvg-id="Energy" tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png",Energy
@@ -44,12 +44,12 @@ rtp://@239.0.5.189:8208
 rtp://@239.0.0.179:8208
 #EXTINF:-1,tvg-id="Be Mad" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png",BeMAD
 rtp://@239.0.0.182:8208
-#EXTINF:-1,tvg-id="DMAX" tvg-chno="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1280px-DMax_Espa%C3%B1a.svg.png",DMAX
-rtp://@239.0.0.32:8208
-#EXTINF:-1,tvg-id="DKISS" tvg-chno="24" tvg-logo="https://www.dkiss.es/wp-content/uploads/dkiss.png",DKISS
+#EXTINF:-1,tvg-id="DKISS" tvg-chno="23" tvg-logo="https://www.dkiss.es/wp-content/uploads/dkiss.png",DKISS
 rtp://@239.0.0.6:8208
-#EXTINF:-1,tvg-id="24 Horas" tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24h
+#EXTINF:-1,tvg-id="24 Horas" tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24h
 rtp://@239.0.5.143:8208
+#EXTINF:-1,tvg-id="TRECE" tvg-chno="25" tvg-logo="https://brandemia.org/sites/default/files/inline/images/trece_logo_despues.jpg",TRECE
+rtp://@239.0.5.200:8208
 #EXTINF:-1,tvg-id="Teledeporte" tvg-chno="26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
 rtp://@239.0.0.188:8208
 #EXTINF:-1,tvg-id="Paramount Network" tvg-chno="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",Paramount Network
