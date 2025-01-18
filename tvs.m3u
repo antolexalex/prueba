@@ -1,0 +1,11 @@
+#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
+#EXTINF:-1 tvg-id="ES2900001DQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20241106T142333SQUARE.png" tvg-chno="45",BBC Drama
+https://jmp2.uk/sam-ES2900001DQ.m3u8
+#EXTINF:-1 tvg-id="ES3200001F1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20241106T142245SQUARE.png" tvg-chno="46",BBC Earth
+https://jmp2.uk/sam-ES3200001F1.m3u8
+#EXTINF:-1 tvg-id="ESBA3300028OE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" tvg-chno="47",iCarly
+https://jmp2.uk/sam-ESBA3300028OE.m3u8
+#EXTINF:-1 tvg-id="ES33000025N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20241126T043056SQUARE.png" tvg-chno="48",Crimen & Historia
+https://jmp2.uk/sam-ES33000025N.m3u8
+#EXTINF:-1 tvg-id="ESAJ380000226" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png" tvg-chno="49", MTV Originals
+https://jmp2.uk/sam-ESAJ380000226.m3u8
