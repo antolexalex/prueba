@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_color1.xml.gz"
+# EPGALT https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 #EXTINF:-1,tvg-id="La 1 HD" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
 rtp://@239.0.0.185:8208
 #EXTINF:-1,tvg-id="La 2" tvg-chno="2" tvg-logo="https://www.camilos.es/wp-content/uploads/2018/03/logo_tve-2-750699.png",La 2
