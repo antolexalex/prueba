@@ -21,7 +21,7 @@ https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/60579
 #EXTINF:-1,tvg-id="Aquí no hay quién viva" tvg-chno="10" tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200",Aqui No Hay Quien Viva 24h
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 #EXTINF:-1,tvg-id="Ten" tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png",TEN
-rtp://@239.0.0.34:8208
+rtp://@239.0.5.72:8208
 #EXTINF:-1,tvg-id="Neox" tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/768px-Neox_2023_logo.svg.png",neox
 rtp://@239.0.5.207:8208
 #EXTINF:-1,tvg-id="Atreseries" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/768px-Atreseries_2020_logo.svg.png",Atreseries
@@ -31,7 +31,7 @@ rtp://@239.0.5.209:8208
 #EXTINF:-1,tvg-id="Mega" tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png",mega
 rtp://@239.0.5.210:8208
 #EXTINF:-1,tvg-id="DMAX" tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1280px-DMax_Espa%C3%B1a.svg.png",DMAX
-rtp://@239.0.0.32:8208
+rtp://@239.0.5.202:8208
 #EXTINF:-1,tvg-id="Divinity" tvg-chno="17" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png",Divinity
 rtp://@239.0.5.199:8208
 #EXTINF:-1,tvg-id="Energy" tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png",Energy
@@ -45,7 +45,7 @@ rtp://@239.0.0.179:8208
 #EXTINF:-1,tvg-id="Be Mad" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png",BeMAD
 rtp://@239.0.0.182:8208
 #EXTINF:-1,tvg-id="DKISS" tvg-chno="23" tvg-logo="https://www.dkiss.es/wp-content/uploads/dkiss.png",DKISS
-rtp://@239.0.0.6:8208
+rtp://@239.0.5.134:8208
 #EXTINF:-1,tvg-id="24 Horas" tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24h
 rtp://@239.0.5.143:8208
 #EXTINF:-1,tvg-id="TRECE" tvg-chno="25" tvg-logo="https://brandemia.org/sites/default/files/inline/images/trece_logo_despues.jpg",TRECE
