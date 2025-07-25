@@ -1,10 +1,11 @@
-document.getElementById('fileInput').addEventListener('change', function (e) {
-  const file = e.target.files[0];
-  if (!file) return;
+const m3uUrl = 'https://raw.githubusercontent.com/antolexalex/prueba/refs/heads/main/tv2.m3u'; // URL
 
-  const reader = new FileReader();
-  reader.onload = function (event) {
-    const text = event.target.result;
+fetch(m3uUrl)
+  .then(response => {
+    if (!response.ok) throw new Error('Error al cargar el M3U');
+    return response.text();
+  })
+  .then(text => {
     const lines = text.split('\n');
     const channelsDiv = document.getElementById('channels');
     channelsDiv.innerHTML = '';
@@ -31,6 +32,11 @@ document.getElementById('fileInput').addEventListener('change', function (e) {
         channelsDiv.appendChild(channelDiv);
       }
     }
-  };
-  reader.readAsText(file);
-});
+
+    if (!channelsDiv.hasChildNodes()) {
+      channelsDiv.innerText = 'No se encontraron canales en el archivo M3U.';
+    }
+  })
+  .catch(error => {
+    document.getElementById('channels').innerText = 'Error al cargar canales: ' + error.message;
+  });
