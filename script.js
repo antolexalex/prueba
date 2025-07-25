@@ -23,9 +23,8 @@ fetch(m3uUrl)
         const box = document.createElement('div');
         box.className = 'channel-box';
         box.innerHTML = `
-          <div class="channel-number">Canal ${dial}</div>
           <img src="${logo}" alt="${name}" onerror="this.style.display='none'">
-          <div class="channel-name">${name}</div>
+          <div class="channel-label">Canal ${dial}: ${name}</div>
         `;
 
         grid.appendChild(box);
