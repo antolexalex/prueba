@@ -1,19 +1,42 @@
 body {
-  font-family: sans-serif;
-  background: #f9f9f9;
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
   padding: 20px;
+  text-align: center;
 }
-.channel {
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.channel-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.channel-box {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   display: flex;
+  flex-direction: column;
   align-items: center;
-  margin-bottom: 10px;
-  background: #fff;
-  padding: 10px;
-  border-radius: 8px;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
 }
-.channel img {
-  width: 80px;
+
+.channel-box img {
+  max-width: 100px;
   height: auto;
-  margin-right: 15px;
+  margin-bottom: 10px;
+}
+
+.channel-name {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.channel-number {
+  color: #888;
+  font-size: 0.9em;
 }
