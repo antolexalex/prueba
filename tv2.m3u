@@ -36,7 +36,7 @@ rtp://@239.0.5.202:8208
 rtp://@239.0.5.199:8208
 #EXTINF:-1 tvg-id="Energy" tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png",Energy
 rtp://@239.0.5.176:8208
-#EXTINF:-1 tvg-id="GOL" tvg-chno="19" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",GOL PLAY
+#EXTINF:-1 tvg-id="GOL" tvg-chno="19" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",GOL
 rtp://@239.0.5.189:8208
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-chno="20" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200",Real Madrid TV
 rtp://@239.0.0.179:8208
@@ -44,7 +44,7 @@ rtp://@239.0.0.179:8208
 rtp://@239.0.0.182:8208
 #EXTINF:-1 tvg-id="DKISS" tvg-chno="22" tvg-logo="https://www.dkiss.es/wp-content/uploads/dkiss.png",DKISS
 rtp://@239.0.5.134:8208
-#EXTINF:-1 tvg-id="TRECE" tvg-chno="23" tvg-logo="https://brandemia.org/sites/default/files/inline/images/trece_logo_despues.jpg",TRECE
+#EXTINF:-1 tvg-id="TRECE" tvg-chno="23" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200",TRECE
 rtp://@239.0.5.200:8208
 #EXTINF:-1 tvg-id="24 Horas" tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/330px-Logo_Canal_24_horas.svg.png",24h
 rtp://@239.0.5.143:8208
