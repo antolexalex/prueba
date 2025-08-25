@@ -42,7 +42,7 @@ rtp://@239.0.5.189:8208
 rtp://@239.0.0.179:8208
 #EXTINF:-1 tvg-id="Be Mad" tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png",BeMAD
 rtp://@239.0.0.182:8208
-#EXTINF:-1 tvg-id="Veo7" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png",BeMAD
+#EXTINF:-1 tvg-id="Veo7" tvg-chno="22" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/k/a/6/logoveo7.png",Veo7
 rtp://@239.0.5.211:8208
 #EXTINF:-1 tvg-id="DKISS" tvg-chno="23" tvg-logo="https://www.dkiss.es/wp-content/uploads/dkiss.png",DKISS
 rtp://@239.0.5.134:8208
